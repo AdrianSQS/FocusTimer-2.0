@@ -1,7 +1,7 @@
 # focus-timer-2.0
 Desafio "FocusTimer" do Explorer da Rocketseat, cujo objetivo foi a criação de um temporizador estilo Pomodoro.
 
-![Desafio "FocusTimer"]([https://github.com/madalena-rocha/focus-timer-2.0/blob/main/assets/focus-timer-2.0.png](https://github.com/AdrianSQS/FocusTimer-2.0/blob/main/focus-timer-2.0.png))
+![Desafio "FocusTimer"](https://github.com/AdrianSQS/FocusTimer-2.0/blob/main/focus-timer-2.0.png?raw=true)
 
 Os botões que se encontram do lado esquerdo, abaixo do timer, apresentam as seguintes funcionalidades:
 
