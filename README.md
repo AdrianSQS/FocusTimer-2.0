@@ -11,3 +11,11 @@ Os botões que se encontram do lado esquerdo, abaixo do timer, apresentam as seg
 - -: diminui em 5 minutos o tempo do timer.
 
 Cada card que se encontra do lado direito, quando selecionado, muda de cor e emite um som diferente, associado a floresta, chuva, cafeteria ou lareira.
+
+## 🛠️ Tecnologias
+- HTML;
+- CSS;
+- JavaScript;
+
+## 💜 Contato
+adriansiqueira44@gmail.com
